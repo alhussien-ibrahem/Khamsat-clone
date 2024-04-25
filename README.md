@@ -9,5 +9,5 @@ This project is a simple clone of the Khamsat website built using pure HTML and 
 - Basic functionality similar to the Khamsat platform.
 
 ## How to Use
-- Open `index.html` in your web browser to view the website.
+- Open `khamsat.html` in your web browser to view the website.
 
